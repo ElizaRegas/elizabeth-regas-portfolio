@@ -1,14 +1,12 @@
 html {
-  background-color: #100D0D;
+  background-color: #000;
 }
 
 body {
-  background-image: url("./images/portfolio1min.png");
-  background-position: center top;
+  /* background-image: url("./images/portfolio1min.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: center top; */
   font-family: 'Montserrat', sans-serif;
-}
-
-.content {
-  min-height: calc(100vh - 70px);
 }
 

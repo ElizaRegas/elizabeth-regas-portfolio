@@ -4,9 +4,9 @@ import "./navbar.css";
 const Navbar = () => {
   return (
     <div uk-sticky>
-      <nav class="uk-navbar-transparent" uk-navbar>
-        <div class="uk-navbar-center">
-          <ul class="uk-navbar-nav uk-navbar-center">
+      <nav className="uk-navbar-transparent" uk-navbar>
+        <div className="uk-navbar-center">
+          <ul className="uk-navbar-nav uk-navbar-center">
             <li>
               <a href="#">Home</a>
             </li>

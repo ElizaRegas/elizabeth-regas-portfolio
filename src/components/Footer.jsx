@@ -3,8 +3,8 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div id="footer">
-      <div uk-sticky="bottom: #footerStop">
+    <div id="footer" uk-sticky="bottom: #footerStop">
+      <div className="footerText">
         Elizabeth Regas
       </div>
       <div id="footerStop"></div>
