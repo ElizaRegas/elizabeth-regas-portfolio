@@ -1,25 +1,29 @@
-import React, { Component } from "react";
+import React from "react";
+import "./navbar.css";
 
-class Navbar extends Component {
-  render() {
-    return (
-      <nav class="uk-navbar-container" uk-navbar>
+const Navbar = () => {
+  return (
+    <div uk-sticky>
+      <nav class="uk-navbar-transparent" uk-navbar>
         <div class="uk-navbar-center">
           <ul class="uk-navbar-nav uk-navbar-center">
             <li>
-              <a href="#">Item</a>
+              <a href="#">Home</a>
             </li>
             <li>
-              <a href="#">Item</a>
+              <a href="#">Portfolio</a>
             </li>
             <li>
-              <a href="#">Item</a>
+              <a href="#">About</a>
+            </li>
+            <li>
+              <a href="#">Contact</a>
             </li>
           </ul>
         </div>
       </nav>
-    );
-  }
-}
+    </div>
+  );
+};
 
 export default Navbar;

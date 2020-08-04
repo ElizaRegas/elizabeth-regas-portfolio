@@ -1,0 +1,12 @@
+.uk-navbar-transparent {
+  background-color: #7C7A5C;
+}
+
+.uk-navbar-nav>li>a {
+  color: #100D0D;
+  padding: 0vw 5vw;
+}
+
+.uk-navbar-nav>li>a:hover {
+  color: #E1AB97;
+}
