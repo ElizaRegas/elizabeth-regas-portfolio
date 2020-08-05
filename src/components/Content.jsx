@@ -8,8 +8,9 @@ class Content extends Component {
         <div className="homeText" id="homeName">
           Elizabeth Regas
         </div>
-        <div className="homeText">Developer. Designer.</div>
-        <div className="homeText">Manipulator of the DOM.</div>
+        <div className="homeText">
+          Developer. Designer. Manipulator of the DOM.
+        </div>
       </div>
     );
   }
