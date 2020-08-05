@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./containers/Navbar/Navbar";
-import Home from "./containers/Content/Home";
-import About from "./containers/Content/About";
-import Portfolio from "./containers/Content/Portfolio";
-import Contact from "./containers/Content/Contact";
+import Home from "./pages/Home/Home";
+import About from "./pages/About/About";
+import Portfolio from "./pages/Portfolio/Portfolio";
+import Contact from "./pages/Contact/Contact";
 import Footer from "./containers/Footer/Footer";
 import "./App.css";
 
