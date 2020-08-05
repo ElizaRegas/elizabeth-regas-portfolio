@@ -9,8 +9,10 @@
     "animate.css": "^4.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-hover-image": "^2.0.1",
     "react-scripts": "3.4.1",
     "react-spring": "^8.0.27",
+    "typescript": "^3.9.7",
     "uikit": "^3.5.5"
   },
   "scripts": {

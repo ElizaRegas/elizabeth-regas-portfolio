@@ -2,12 +2,25 @@
   text-align: center;
   color: #f0f0ea;
   position: relative;
-  bottom: -.8em;
+  bottom: -1.5em;
+}
+
+.icons {
+  height: 2.6rem;
+  padding: 0% 2% .5% 0%;
+}
+
+.icons:hover {
+
+}
+
+.linkedInIcon {
+  padding: 0% 2% .5% 2%;
 }
 
 #footer {
   background-color: #7c7a5c;
-  height: 50px;
+  height: 80px;
   position: fixed;
   left: 0;
   bottom: 0;
