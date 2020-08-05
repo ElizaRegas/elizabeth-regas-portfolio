@@ -1,0 +1,9 @@
+.homeAnimation {
+  background-color: #7c7a5c;
+  width: 52vw;
+  height: 13vw;
+  z-index: 1;
+  position: fixed;
+  top: 61vh;
+  left: 48vh;
+}
