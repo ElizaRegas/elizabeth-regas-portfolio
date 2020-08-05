@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./content.css";
 
-class Content extends Component {
+class Home extends Component {
   render() {
     return (
       <div id="heroImage" className="content">
@@ -16,4 +16,4 @@ class Content extends Component {
   }
 }
 
-export default Content;
+export default Home;
