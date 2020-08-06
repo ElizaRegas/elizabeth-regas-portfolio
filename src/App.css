@@ -10,3 +10,9 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.content {
+  min-height: calc(100vh - 100px);
+  width: 100%;
+  height: 100%;
+}
+
