@@ -2,9 +2,11 @@
   border: outset 10px #f0f0ea; 
 }
 
-.portOne {
+.portfolio {
   text-align: center;
   color: #f0f0ea;
+  font-size: 2vw;
+  margin: 2vw 0vw 0vw 0vw;
 }
 
 
