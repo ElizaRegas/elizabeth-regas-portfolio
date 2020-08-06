@@ -1,0 +1,23 @@
+.portOne {
+  text-align: center;
+  margin-top: 10vw;
+  color: #f0f0ea;
+}
+
+#ekHome {
+  width: 20vw;
+  margin: 3vw 0vw 0vw 33vw;
+  border: solid 5px #f0f0ea;
+}
+
+#ekMusic {
+  width: 17vw;
+  /* margin: 3vw 0vw 0vw 1vw; */
+  border: solid 5px #f0f0ea;
+}
+
+#ekContact {
+  width: 17vw;
+  /* margin: 21vw 0vw 0vw 0vw; */
+  border: solid 5px #f0f0ea;
+}

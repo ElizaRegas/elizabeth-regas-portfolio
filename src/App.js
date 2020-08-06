@@ -18,11 +18,11 @@ class App extends Component {
             <Route exact path="/">
               <Home />
             </Route>
-            <Route exact path="/about">
-              <About />
-            </Route>
             <Route exact path="/portfolio">
               <Portfolio />
+            </Route>
+            <Route exact path="/about">
+              <About />
             </Route>
             <Route exact path="/contact">
               <Contact />

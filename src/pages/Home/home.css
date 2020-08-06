@@ -7,10 +7,15 @@
 .homeText {
   text-align: center;
   color: #f0f0ea;
-  top: 22rem;
-  font-size: 2.2vw;
+  top: 20rem;
+  font-size: 2vw;
   position: relative;
   text-shadow: 1px 1px 1px #666;
+}
+
+.uk-animation-kenburns {
+  animation-name: uk-scale-kenburns;
+  animation-duration: 10s;
 }
 
 #heroImage {
