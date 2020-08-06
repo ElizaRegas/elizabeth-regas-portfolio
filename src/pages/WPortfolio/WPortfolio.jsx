@@ -2,10 +2,10 @@ import React from "react";
 import ekHome from "../../images/ekHome.png";
 import CABT from "../../images/CABT 2.png";
 import GS from "../../images/GS.png";
-import DSB from "../../images/DSBPortfolio.png";
-import SD from "../../images/SDPortfolio.png";
-import AL from "../../images/ALPortfolio.png";
-import UR from "../../images/URPortfolio.png";
+import YDKJ from "../../images/YDKJ.png";
+import Burger from "../../images/burger.png";
+import JSQuiz from "../../images/JSQuiz.png";
+import Weather from "../../images/Weather.png";
 
 import "./portfolio.css";
 import "../../App.css";
@@ -51,7 +51,7 @@ const WPortfolio = () => {
               <a href="https://elizaregas.github.io/Good-Spirits/" target="_blank" rel="noopener noreferrer">
                 <img
                   src={GS}
-                  alt="cat against a banana tree"
+                  alt="good spirits"
                   className="customBorder"
                 ></img>
               </a>
@@ -61,10 +61,10 @@ const WPortfolio = () => {
             <div
               class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body"
             >
-              <a href="https://elizaregas.github.io/Good-Spirits/" target="_blank" rel="noopener noreferrer">
+              <a href="https://elizaregas.github.io/hw6-weather-dashboard/" target="_blank" rel="noopener noreferrer">
                 <img
-                  src={GS}
-                  alt="cat against a banana tree"
+                  src={Weather}
+                  alt="weather app"
                   className="customBorder"
                 ></img>
               </a>
@@ -72,42 +72,41 @@ const WPortfolio = () => {
           </div>
           <div>
             <div
-              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle"
-              //style="height: 120em"
+              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body"
             >
-              Item
+              <a href="https://elizaregas.github.io/hw4-javascript-quiz/" target="_blank" rel="noopener noreferrer">
+                <img
+                  src={JSQuiz}
+                  alt="javascript quiz"
+                  className="customBorder"
+                ></img>
+              </a>
             </div>
           </div>
           <div>
             <div
-              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle"
-              //style="height: 140em"
+              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body"
             >
-              Item
+              <a href="https://elizaregas.github.io/Trivia_YDKJ/" target="_blank" rel="noopener noreferrer">
+                <img
+                  src={YDKJ}
+                  alt="javascript quiz"
+                  className="customBorder"
+                ></img>
+              </a>
             </div>
           </div>
           <div>
             <div
-              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle"
-              //style="height: 200em"
+              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body"
             >
-              Item
-            </div>
-          </div>
-          <div>
-            <div
-              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle"
-              //style="height: 180em"
-            >
-              Item
-            </div>
-          </div>
-          <div>
-            <div
-              class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle"
-              //style="height: 140em"
-            >
-              Item
+              <a href="https://enthousiaste-maison-76258.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                <img
+                  src={Burger}
+                  alt="burger app"
+                  className="customBorder"
+                ></img>
+              </a>
             </div>
           </div>
         </div>
