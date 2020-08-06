@@ -1,5 +1,5 @@
 .uk-navbar-transparent {
-  background-color: #7C7A5C;
+  background-color: #7c7a5c;
 }
 
 .uk-navbar-nav>li>a {
@@ -7,6 +7,14 @@
   padding: 0vw 5vw;
 }
 
+.uk-navbar-nav>li>a:focus {
+  color: #f0f0ea;
+}
+
 .uk-navbar-nav>li>a:hover {
-  color: #E1AB97;
+  color: #E1AB97 !important;
+}
+
+.uk-navbar-nav>li>a:active {
+  color: #f0f0ea;
 }

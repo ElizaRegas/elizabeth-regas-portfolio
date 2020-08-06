@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import "./content.css";
+import "./home.css";
+import "../../App.css";
 
 class Home extends Component {
   render() {
@@ -8,8 +9,12 @@ class Home extends Component {
         <div className="homeText" id="homeName">
           Elizabeth Regas
         </div>
-        <div className="homeText">
-          Developer. Designer. Manipulator of the DOM.
+        <div className="uk-animation-fade">
+          <div className="uk-animation-kenburns">
+            <div className="homeText">
+              Developer. Designer. Manipulator of the DOM.
+            </div>
+          </div>
         </div>
       </div>
     );
