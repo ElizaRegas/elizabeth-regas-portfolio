@@ -1,0 +1,14 @@
+.customBorder {
+  border: outset 10px #f0f0ea; 
+}
+
+.portOne {
+  text-align: center;
+  color: #f0f0ea;
+}
+
+
+.uk-card-body {
+  margin: 2vw 1vw 1vw 2vw;
+  width: 85%;
+}
