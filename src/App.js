@@ -10,13 +10,15 @@ import Footer from "./containers/Footer/Footer";
 import "./App.css";
 
 class App extends Component {
-
   render() {
     return (
       <Router>
         <div className="content">
           <Navbar />
           <Switch>
+            <Route exact path="/">
+              <Home />
+            </Route>
             <Route exact path="/webportfolio">
               <WPortfolio />
             </Route>
@@ -28,9 +30,6 @@ class App extends Component {
             </Route>
             <Route exact path="/contact">
               <Contact />
-            </Route>
-            <Route exact path="/">
-              <Home />
             </Route>
           </Switch>
           <Footer />
