@@ -15,7 +15,7 @@ const Navbar = () => {
               <Link to="/webportfolio">Web Portfolio</Link>
             </li>
             <li>
-              <Link to="/avportfolio">A/V Portfolio</Link>
+              <Link to="/avportfolio">AV Portfolio</Link>
             </li>
             <li>
               <Link to="/about">About</Link>

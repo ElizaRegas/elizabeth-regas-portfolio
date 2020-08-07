@@ -5,12 +5,7 @@
 .portfolio {
   text-align: center;
   color: #f0f0ea;
-  font-size: 2vw;
-  margin: 2vw 0vw 0vw 0vw;
+  font-size: 2.5vw;
+  margin: 2vw;
 }
 
-
-.uk-card-body {
-  margin: 2vw 1vw 1vw 2vw;
-  width: 85%;
-}
