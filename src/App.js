@@ -17,16 +17,16 @@ class App extends Component {
         <div className="content">
           <Navbar />
           <Switch>
-            <Route path="/webportfolio">
+            <Route exact path="/webportfolio">
               <WPortfolio />
             </Route>
-            <Route path="/avportfolio">
+            <Route exact path="/avportfolio">
               <AVPortfolio />
             </Route>
-            <Route path="/about">
+            <Route exact path="/about">
               <About />
             </Route>
-            <Route path="/contact">
+            <Route exact path="/contact">
               <Contact />
             </Route>
             <Route exact path="/">
