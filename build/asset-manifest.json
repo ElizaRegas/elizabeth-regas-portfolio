@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6450ece9.chunk.css",
+    "main.js": "/static/js/main.48d947e8.chunk.js",
+    "main.js.map": "/static/js/main.48d947e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.867a2e6e.chunk.js": "/static/js/2.867a2e6e.chunk.js",
+    "static/js/2.867a2e6e.chunk.js.map": "/static/js/2.867a2e6e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.532eeccb7890848a8c13e834061d16b4.js": "/precache-manifest.532eeccb7890848a8c13e834061d16b4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6450ece9.chunk.css.map": "/static/css/main.6450ece9.chunk.css.map",
+    "static/js/2.867a2e6e.chunk.js.LICENSE.txt": "/static/js/2.867a2e6e.chunk.js.LICENSE.txt",
+    "static/media/ALPortfolio.png": "/static/media/ALPortfolio.b8779510.png",
+    "static/media/CABT 2.png": "/static/media/CABT 2.19a6e68e.png",
+    "static/media/DSBPortfolio.png": "/static/media/DSBPortfolio.ee5f2c6f.png",
+    "static/media/GS.png": "/static/media/GS.2c4627a6.png",
+    "static/media/JSQuiz.png": "/static/media/JSQuiz.e3cbc4c1.png",
+    "static/media/SDPortfolio.png": "/static/media/SDPortfolio.2c6aa1e3.png",
+    "static/media/URPortfolio.png": "/static/media/URPortfolio.0696a302.png",
+    "static/media/Weather.png": "/static/media/Weather.567f9473.png",
+    "static/media/YDKJ.png": "/static/media/YDKJ.939fb956.png",
+    "static/media/burger.png": "/static/media/burger.2f4d2a99.png",
+    "static/media/ekHome.png": "/static/media/ekHome.080e3795.png",
+    "static/media/githubIcon.png": "/static/media/githubIcon.040302b1.png",
+    "static/media/githubIconPink.png": "/static/media/githubIconPink.90c321ab.png",
+    "static/media/linkedInIcon.png": "/static/media/linkedInIcon.ce12a74e.png",
+    "static/media/linkedInIconPink.png": "/static/media/linkedInIconPink.1b7a7081.png",
+    "static/media/home.css": "/static/media/portfolio1min.a60a0b8a.png",
+    "static/media/portfolio2min.png": "/static/media/portfolio2min.0aeabc2b.png",
+    "static/media/twitterIcon.png": "/static/media/twitterIcon.17c9bbbc.png",
+    "static/media/twitterIconPink.png": "/static/media/twitterIconPink.496f00fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.867a2e6e.chunk.js",
+    "static/css/main.6450ece9.chunk.css",
+    "static/js/main.48d947e8.chunk.js"
+  ]
+}
