@@ -121,14 +121,8 @@ const WPortfolio = () => {
             </div>
           </div>
           <div>
-            <div class="uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body">
-              <a
-                href="https://elizaregas.github.io/Trivia_YDKJ/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                
-              </a>
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-card-body">
+
             </div>
           </div>
         </div>

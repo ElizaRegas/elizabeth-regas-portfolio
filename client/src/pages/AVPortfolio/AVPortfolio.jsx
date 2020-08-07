@@ -56,6 +56,7 @@ const AVPortfolio = () => {
               </a>
             </div>
           </div>
+          <div class="uk-flex uk-flex-center uk-flex-middle uk-card-body"></div>
         </div>
       </div>
     </div>
