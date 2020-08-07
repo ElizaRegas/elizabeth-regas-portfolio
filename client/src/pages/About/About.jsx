@@ -22,7 +22,10 @@ const About = () => {
           </div>
           <div>
             <div class="uk-card customBorder uk-card-default uk-flex uk-flex-center uk-flex-middle uk-card-body aboutText">
-              <p><span>About Me</span><br></br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure facere rerum accusantium nam at molestiae quis repudiandae quam corrupti. Pariatur, magnam voluptates. Eum minus possimus rerum aliquid impedit, iusto suscipit.</p>
+              <p><span>About Me</span>
+              <br /><br />
+                I'm a creative and analytical individual with a balanced brain approach to web development.
+                I view web development as the ultimate challenge, where art meets problem solving, and I thrive on finding elegant solutions to the complex problems.</p>
             </div>
           </div>
           <div>

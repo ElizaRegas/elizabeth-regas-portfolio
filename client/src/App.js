@@ -10,6 +10,7 @@ import Footer from "./containers/Footer/Footer";
 import "./App.css";
 
 class App extends Component {
+
   render() {
     return (
       <Router>

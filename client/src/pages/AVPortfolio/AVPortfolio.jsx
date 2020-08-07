@@ -7,7 +7,7 @@ import SD from "../../images/SDPortfolio.png";
 import AL from "../../images/ALPortfolio.png";
 import UR from "../../images/URPortfolio.png";
 
-import "../../pages/WPortfolio/portfolio.css";
+import "../WPortfolio/portfolio.css";
 import "../../App.css";
 
 const AVPortfolio = () => {
