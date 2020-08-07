@@ -1,0 +1,10 @@
+.customBorder {
+  border: outset 10px #f0f0ea; 
+}
+
+.portfolioText {
+  margin: 2vw;
+  text-align: center;
+  color: #f0f0ea;
+  font-size: 2.5vw;
+}
