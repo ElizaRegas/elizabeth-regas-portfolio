@@ -4,11 +4,11 @@
 
 ## Description
 
-This is my portfolio, containing examples of my web development projects, as well as my audio/video projects. You can visit this deployed site at
+This is my portfolio, containing examples of my web development projects, as well as my audio/video projects. You can visit this deployed site at:
 
 elizabethregas.com
 
-![My Project](./src/images/portfolioScreenShot.png)
+![My Project](./client/src/images/portfolioScreenShot.png)
 
 
 ## License
